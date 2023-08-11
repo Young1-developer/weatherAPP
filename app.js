@@ -1,4 +1,4 @@
-const apiKey = '0c46f1d13fe215706dee96d1fd5f900b';
+const apiKey = 'Your APIKEY';
 const baseUrl = `https://api.openweathermap.org/data/2.5/weather`;
 
 document.getElementById('forecast-button').addEventListener('click', () => {
